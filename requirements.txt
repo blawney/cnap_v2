@@ -35,7 +35,7 @@ pyxdg==0.25
 redis==2.10.6
 requests==2.20.1
 requests-oauthlib==1.0.0
-rsa==4.0
+rsa==4.7
 SecretStorage==2.3.1
 six==1.10.0
 uritemplate==3.0.0
